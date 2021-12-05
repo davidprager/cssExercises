@@ -1,0 +1,27 @@
+div {
+    width: 200px;
+    height: 400px;
+    margin-bottom: 10px;
+    border: solid black;
+    text-align: center;
+}
+
+#box1 {
+    color: red;
+}
+
+#box2 {
+    color: blue;
+}
+
+#box3 {
+    color: green;
+}
+
+#box4 {
+    color: orange;
+}
+
+p {
+    color: black;
+}
